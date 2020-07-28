@@ -1,4 +1,4 @@
-![My Avatar](https://raw.githubusercontent.com/aravindc/aravindc/images/myAvatar.svg)
+![My Avatar](https://raw.githubusercontent.com/aravindc/aravindc/master/images/myAvatar.svg)
 ### Hi, I'm Aravindan Chockalingam (Ara) 👋
 
 <!--
