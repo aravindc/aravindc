@@ -1,5 +1,7 @@
-![My Avatar](https://raw.githubusercontent.com/aravindc/aravindc/master/images/header01.png)
 ### Hi, I'm Aravindan Chockalingam (Ara) 👋
+
+![My Avatar](https://raw.githubusercontent.com/aravindc/aravindc/master/images/header02.png)
+
 
 <!--
 **aravindc/aravindc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
