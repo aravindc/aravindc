@@ -1,3 +1,4 @@
+![My Avatar](images/myAvatar.svg)
 ### Hi, I'm Aravindan Chockalingam (Ara) 👋
 
 <!--
